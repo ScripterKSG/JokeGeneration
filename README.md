@@ -24,4 +24,6 @@ https://stackoverflow.com/questions/71239557/export-tensorboard-with-pytorch-dat
 
 https://gathnex.medium.com/mistral-7b-fine-tuning-a-step-by-step-guide-52122cdbeca8
 
+https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887
+
 https://huggingface.co/docs/transformers/en/training

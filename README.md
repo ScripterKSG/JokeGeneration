@@ -5,9 +5,9 @@ Files **tuneT5, tuneMistral, and tuneBart** are notebooks that showcase how we u
 
 Note that the output shown by these notebooks may not reflect the final model versions used or presented in our paper. We experiemented with several different parameters and dataset preprocessing techniques; we changed the parameters in each cell back to the best parameters but did not rerun the entire notebook with them. We presented only the best results in our paper.
 
-File **MakePunchlines** is the notebook that loads the best iterations/versions of the tuned models for punchline generation. Witin MakePunchlines is a cell with list structure joke_headers. You can change the strings in joke_headers and run the notebook. The notebook will generate jokes for each model and load them into a dataframe and csv. MakePunchlines also makes a plot of the training losses for each model at the end. There may need to be some directory changing to load the models and logs for the training losses plot. 
+File **MakePunchlines** is the notebook that loads the best iterations/versions of the tuned models for punchline generation. Within MakePunchlines is a cell with list structure joke_headers. You can change the strings in joke_headers and run the notebook. The notebook will generate jokes for each model and load them into a dataframe and csv. MakePunchlines also makes has a plot of the training losses for each model during fine tuning. There may need to be some directory changing to load the models and logs for the training losses plot. 
 
-Due to the size of the model configurations, we were unable to upload them to github. Hence, they were stored externally in a Google Drive. To use the fine-tuned models and access the training logs in the **MakePunchlines** notebook, see
+Due to the size of the model configurations, we were unable to upload them to Github. Hence, they were stored externally in a Google Drive. To use the fine-tuned models and access the training logs in the **MakePunchlines** notebook, see
 
 [**Google Drive Folder with all Model Checkpoints**](https://drive.google.com/drive/folders/1NVtKfN_jmsumBkP2It_XhCPaacA9rzB3?usp=drive_link)
 

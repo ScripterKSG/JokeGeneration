@@ -3,7 +3,7 @@
 In this repository, we have notebooks to fine tune three LLMs (**Flan T5-base, Mistral-7B-Instruct-v0.1, and BART**) to generate comedic punchlines based on an inputted joke starter.
 Files **tuneT5, tuneMistral, and tuneBart** are notebooks that showcase how we utilized PEFT to tune them on the data found within the Reddit Jokes json. You will need a Hugging Face key to load and run Mistral.
 
-Note that the output shown by these notebooks may not reflect the final model versions used or presented in our paper. We experiemented with several different parameters and dataset preprocessing techniques; we changed the parameters in each cell back to the best parameters but did not rerun the entire notebook with them. We presented only the best results in our paper.
+Note that the output shown by these notebooks may not reflect the final model versions used or presented in our paper. We ran each of the aforementioned notebooks several times with different parameters and techniques. We did change the parameters in each cell back to the best parameters but did not rerun the entire notebook with them. We presented only the best results in our paper.
 
 File **MakePunchlines** is the notebook that loads the best iterations/versions of the tuned models for punchline generation. Within MakePunchlines is a cell with list structure joke_headers. You can change the strings in joke_headers and run the notebook. The notebook will generate jokes for each model and load them into a dataframe and csv. MakePunchlines also makes has a plot of the training losses for each model during fine tuning. There may need to be some directory changing to load the models and logs for the training losses plot. 
 

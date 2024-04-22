@@ -11,6 +11,8 @@ https://drive.google.com/drive/folders/1NVtKfN_jmsumBkP2It_XhCPaacA9rzB3?usp=dri
 The optimal versions and checkpoints for each model used in MakePunchlines are:
 
 T5: '/content/drive/MyDrive/Models/google/flan-t5-basev3/checkpoint-1400'
+
 Mistral: '/content/drive/MyDrive/Models/mistralai/Mistral-7B-Instruct-v0.1/Mistral-7B-Instruct-v0.1v1'
+
 BART: '/content/drive/MyDrive/Models/facebook/bart-basev3/checkpoint-1400'
 

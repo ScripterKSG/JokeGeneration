@@ -16,3 +16,12 @@ Mistral: '/content/drive/MyDrive/Models/mistralai/Mistral-7B-Instruct-v0.1/Mistr
 
 BART: '/content/drive/MyDrive/Models/facebook/bart-basev3/checkpoint-1400'
 
+
+
+Finally, we cite the following sources for segments of code utilized in our tuning and logging process:
+
+https://stackoverflow.com/questions/71239557/export-tensorboard-with-pytorch-data-into-csv-with-python
+
+https://gathnex.medium.com/mistral-7b-fine-tuning-a-step-by-step-guide-52122cdbeca8
+
+https://huggingface.co/docs/transformers/en/training

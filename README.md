@@ -4,3 +4,6 @@ Files tuneT5, tuneMistral, and tuneBart are notebooks that showcase how we utili
 File MakePunchlines is the notebook that loads the best iterations/versions of the tuned models for punchline generation. Witin MakePunchlines is a cell with list structure joke_headers. You can change the strings in joke_headers and run the notebook. The notebook will generate jokes for each model and load them into a dataframe and csv. MakePunchlines also makes a plot of the training losses for each model at the end. There may need to be some directory changing to load the models and logs for the training losses plot. 
 
 Due to the size of the model configurations, we were unable to upload them to github so MakePunchlines will not be able to load the fine-tuned models if downloaded and ran locally on a different device. 
+The models saved can found at the drive link below:
+
+https://drive.google.com/drive/folders/1NVtKfN_jmsumBkP2It_XhCPaacA9rzB3?usp=drive_link

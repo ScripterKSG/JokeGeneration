@@ -11,6 +11,8 @@ Due to the size of the model configurations, we were unable to upload them to Gi
 
 [**Google Drive Folder with all Model Checkpoints**](https://drive.google.com/drive/folders/1NVtKfN_jmsumBkP2It_XhCPaacA9rzB3?usp=drive_link)
 
+For an overview of the results, please see the pdf report. The hyperlines do not work from Github; you will have to download the pdf and then you'll be able to use the hyperlinks.
+
 ### Optimal model versions/checkpoints
 
 - **Flan T5-base**: `/content/drive/MyDrive/Models/google/flan-t5-basev3/checkpoint-1400`

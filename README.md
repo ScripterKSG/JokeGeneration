@@ -11,7 +11,8 @@ Due to the size of the model configurations, we were unable to upload them to Gi
 
 [**Google Drive Folder with all Model Checkpoints**](https://drive.google.com/drive/folders/1NVtKfN_jmsumBkP2It_XhCPaacA9rzB3?usp=drive_link)
 
-For an overview of the results, please see the pdf report. The hyperlinks in the report do not work from Github; you will have to download the pdf and then you'll be able to use the hyperlinks.
+For an overview of the results, please see the pdf report. The hyperlinks in the report do not work from Github; you will have to download the pdf and then you'll be able to use the hyperlinks. Mistral was manually evaluated by 5 individuals
+to have the best performance by a significant margin. This result coincides with the fact that Mistral has the largest amount of parameters and was the best model for casual, informal langauge.
 
 ### Optimal model versions/checkpoints
 
